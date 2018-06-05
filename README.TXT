@@ -1,12 +1,9 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
+|                               JavaFatura                                 |
+----------------------------------------------------------------------------
 
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
+TITULO DO PROJETO: JavaFatura
+OBJETIVO DO PROJETO: Implementar um programa para gestão de faturas. Os contribuintes (individuais e empresariais) devem poder adicionar/emitir faturas e mais uma série de funcionalidades.
+COMO INICIAR O PROJETO: 
+AUTOR: João Gomes
 INSTRUÇÕES PARA O USUÁRIO:
