@@ -1,0 +1,42 @@
+#BlueJ class context
+comment0.target=FaturaMap
+comment1.params=
+comment1.target=FaturaMap()
+comment1.text=Construtor\ por\ omiss\u00E3o
+comment10.params=NIF\ fs
+comment10.target=void\ mudarFaturas(java.lang.String,\ java.util.LinkedList)
+comment10.text=M\u00E9todo\ que\ troca\ a\ lista\ de\ faturas\ associadas\ a\ um\ NIF\ pela\ passada\ como\ argumento
+comment11.params=NIF\ opt
+comment11.target=double\ faturadoOuGasto(java.lang.String,\ boolean)
+comment11.text=M\u00E9todo\ que\ devolve\ o\ total\ gasto\ de\ um\ contribuinte\ ou\ o\ faturado\ de\ um\ empresarial\ (true\ \=\ gasto,\ false\ \=\ faturado)
+comment12.params=NIF\ codigos
+comment12.target=double\ deduzido(java.lang.String,\ java.util.ArrayList)
+comment12.text=M\u00E9todo\ que\ devolve\ o\ montante\ de\ dedu\u00E7\u00E3o\ de\ um\ s\u00F3\ NIF
+comment13.params=
+comment13.target=void\ printFaturas()
+comment13.text=M\u00E9todo\ que\ imprime\ todas\ as\ faturas
+comment2.params=f
+comment2.target=void\ addFatura(Fatura)
+comment2.text=M\u00E9todo\ que\ adiciona\ uma\ fatura\ emitida\ por\ uma\ empresa\ ao\ mapa\ por\ ordem\ decrescente\ do\ seu\ valor
+comment3.params=faturas\ f
+comment3.target=void\ addToListDate(java.util.LinkedList,\ Fatura)
+comment3.text=M\u00E9todo\ que\ adiciona\ uma\ fatura\ a\ uma\ lista\ ligada\ de\ faturas\ por\ ordem\ cronol\u00F3gica\ (mais\ recente\ para\ mais\ antigo)
+comment4.params=faturas\ f
+comment4.target=void\ addToList(java.util.LinkedList,\ Fatura)
+comment4.text=M\u00E9todo\ que\ adiciona\ uma\ fatura\ a\ uma\ lista\ de\ faturas\ por\ ordem\ decrescente\ de\ valor
+comment5.params=
+comment5.target=void\ guardarFaturas()
+comment5.text=M\u00E9todo\ que\ guarda\ todas\ as\ faturas\ no\ ficheiro\ "registo_faturas.txt"
+comment6.params=
+comment6.target=void\ loadFaturas()
+comment6.text=M\u00E9todo\ que\ carrega\ todas\ as\ faturas\ guardadas\ no\ ficheiro\ "registo_faturas.txt"
+comment7.params=oldF\ newF
+comment7.target=void\ swapFatura(Fatura,\ Fatura)
+comment7.text=M\u00E9todo\ que\ troca\ uma\ fatura\ por\ outra
+comment8.params=NIF\ opt
+comment8.target=java.util.LinkedList\ getFaturasEmp(java.lang.String,\ boolean)
+comment8.text=M\u00E9todo\ que\ devolve\ a\ lista\ que\ cont\u00E9m\ as\ faturas\ de\ um\ contribuinte\ empresarial\ por\ ordem\ de\ data\ ou\ valor\ (true\ \=\ data,\ false\ \=\ valor)
+comment9.params=NIF\ opt
+comment9.target=java.util.LinkedList\ getFaturasInd(java.lang.String,\ boolean)
+comment9.text=M\u00E9todo\ que\ devolve\ uma\ lista\ ligada\ contendo\ todas\ as\ faturas\ de\ um\ contribuinte\ individual\ por\ ordem\ de\ data\ ou\ valor\ (true\ \=\ data,\ false\ \=\ valor)
+numComments=14

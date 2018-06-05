@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=AtividadeEconomica
+comment1.params=atividade
+comment1.target=AtividadeEconomica\ getAtividade(java.lang.String)
+comment1.text=M\u00E9todo\ que\ transforma\ uma\ string\ numa\ atividade\ econ\u00F3mica
+comment2.params=atividade
+comment2.target=java.util.ArrayList\ fromString(java.lang.String)
+comment2.text=M\u00E9todo\ que\ transforma\ uma\ string\ num\ ArrayList\ de\ atividades\ econ\u00F3micas
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=M\u00E9todo\ que\ devolve\ uma\ string\ que\ cont\u00E9m\ a\ informa\u00E7\u00E3o\ da\ atividade
+comment4.params=
+comment4.target=double\ getFator()
+comment4.text=M\u00E9todo\ que\ devolve\ o\ fator\ de\ dedu\u00E7\u00E3o\ da\ atividade\ econ\u00F3mica
+comment5.params=e
+comment5.target=boolean\ equals(AtividadeEconomica)
+comment5.text=M\u00E9todo\ que\ iguala\ duas\ atividades\ econ\u00F3micas
+comment6.params=atividades
+comment6.target=boolean\ isContained(java.util.ArrayList)
+comment6.text=M\u00E9todo\ que\ diz\ se\ uma\ atividade\ econ\u00F3mica\ est\u00E1\ contida\ numa\ lista\ de\ atividades
+numComments=7

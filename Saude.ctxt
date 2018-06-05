@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Saude
+comment1.params=
+comment1.target=double\ getFator()
+comment1.text=Devolve\ o\ fator\ de\ dedu\u00E7\u00E3o\ desta\ atividade\ econ\u00F3mica
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=M\u00E9todo\ que\ devolve\ uma\ string\ que\ cont\u00E9m\ a\ informa\u00E7\u00E3o\ da\ atividade
+numComments=3
